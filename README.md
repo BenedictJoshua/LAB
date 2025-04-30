@@ -1,2 +1,2 @@
 # LAB
-Lab Examination Repo, Bugs
+Lab Examination Repo
